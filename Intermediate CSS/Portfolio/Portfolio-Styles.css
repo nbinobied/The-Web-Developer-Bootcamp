@@ -1,0 +1,16 @@
+img {
+    width: 30%;
+    height: 150px;
+    float:left;
+    margin:1.66%;
+}
+p {
+    font-family: 'Slabo 27px', serif;  
+    margin-left: 1.66%;
+    font-size: 32px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-bottom: 2px #F1F1F1 solid;
+    width: 30%;
+    padding-bottom: 20px;
+}
