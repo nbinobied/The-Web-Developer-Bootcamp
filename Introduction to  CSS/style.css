@@ -1,0 +1,20 @@
+h1 {
+    color:#FF8000;
+    border-color:purple;
+    border-width: 10px;
+    border-style: groove;
+}
+
+li {
+    color: orange;
+}
+
+h4 {
+    background-color: coral;
+}
+
+body {
+    background: url(https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_960_720.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

@@ -1,0 +1,15 @@
+body {
+    background: purple;
+}
+
+li {
+    border: black solid 2px;
+}
+
+#special {
+    background: white;
+}
+
+.completed {
+    text-decoration: line-through;
+}
