@@ -1,0 +1,10 @@
+<% include partials/header %>
+<h1>You fell in love with <%= person %></h1>
+
+<% if (person.toLowerCase() === "reem") { %>
+    <p>Good Luck!</p>
+<% } else { %>
+    <p>Maybe</p>
+<% } %>
+
+<% include partials/footer %>
